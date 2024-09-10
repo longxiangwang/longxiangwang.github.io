@@ -136,8 +136,8 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2008.09 - 2012.06*, Mathematics and Applied Mathematics, Anhui Normal University. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2012.09 - 2019.09*, Doctor of Philosophy in Mathematics, Nanjing University of Science and Technology. 
+- *2008.09 - 2012.06*, Bachelor of Science in Mathematics and Applied Mathematics, Anhui Normal University. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
