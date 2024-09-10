@@ -31,7 +31,7 @@ author:
   email            : "leixu@njust.edu.cn" 
 
   # Academic websites
-  arxiv            : "https://dblp.org/pid/19/360-19.html"
+  dblp             : "https://dblp.org/pid/19/360-19.html"
   googlescholar    : "https://scholar.google.com/citations?user=HY5jH_MAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9178-6640"
