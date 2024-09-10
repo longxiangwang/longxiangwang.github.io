@@ -26,7 +26,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 # 📝 Publications 
 
-- [Privacy Enhanced Authentication for Online Learning Healthcare Systems](#)<div class="badge-container">
+- [Privacy Enhanced Authentication for Online Learning Healthcare Systems]<div class="badge-container">
     <span class="badge badge-ccf">CCF</span>
     <span class="badge badge-a">A</span>
     <span class="badge badge-conference">USENIX Security</span>
