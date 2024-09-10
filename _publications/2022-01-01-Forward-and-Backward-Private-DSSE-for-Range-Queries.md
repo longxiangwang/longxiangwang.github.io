@@ -1,8 +1,9 @@
 ---
 title: "Forward and Backward Private DSSE for Range Queries"
-collection: publicationscategory: manuscripts
-
+collection: publications
 permalink: /publication/2022-01-01-Forward-and-Backward-Private-DSSE-for-Range-Queries
+category: manuscripts
+
 date: 2022-01-01
 venue: 'IEEE Trans. Dependable Secur. Comput.'
 paperurl: 'https://doi.org/10.1109/TDSC.2020.2994377'

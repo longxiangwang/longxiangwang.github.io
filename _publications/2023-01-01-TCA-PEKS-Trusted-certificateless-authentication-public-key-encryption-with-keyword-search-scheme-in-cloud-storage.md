@@ -1,8 +1,9 @@
 ---
 title: "TCA-PEKS: Trusted certificateless authentication public-key encryption with keyword search scheme in cloud storage"
-collection: publicationscategory: manuscripts
-
+collection: publications
 permalink: /publication/2023-01-01-TCA-PEKS-Trusted-certificateless-authentication-public-key-encryption-with-keyword-search-scheme-in-cloud-storage
+category: manuscripts
+
 date: 2023-01-01
 venue: 'Peer Peer Netw. Appl.'
 paperurl: 'https://doi.org/10.1007/s12083-022-01392-7'

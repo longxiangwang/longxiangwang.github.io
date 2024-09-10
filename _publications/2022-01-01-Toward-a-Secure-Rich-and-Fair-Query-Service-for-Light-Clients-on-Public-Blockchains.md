@@ -1,8 +1,9 @@
 ---
 title: "Toward a Secure, Rich, and Fair Query Service for Light Clients on Public Blockchains"
-collection: publicationscategory: manuscripts
-
+collection: publications
 permalink: /publication/2022-01-01-Toward-a-Secure-Rich-and-Fair-Query-Service-for-Light-Clients-on-Public-Blockchains
+category: manuscripts
+
 date: 2022-01-01
 venue: 'IEEE Trans. Dependable Secur. Comput.'
 paperurl: 'https://doi.org/10.1109/TDSC.2021.3103382'

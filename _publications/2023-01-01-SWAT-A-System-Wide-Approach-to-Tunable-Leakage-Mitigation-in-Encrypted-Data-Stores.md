@@ -1,8 +1,9 @@
 ---
 title: "SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores"
-collection: publicationscategory: manuscripts
-
+collection: publications
 permalink: /publication/2023-01-01-SWAT-A-System-Wide-Approach-to-Tunable-Leakage-Mitigation-in-Encrypted-Data-Stores
+category: manuscripts
+
 date: 2023-01-01
 venue: 'CoRR'
 paperurl: 'https://doi.org/10.48550/arXiv.2306.16851'

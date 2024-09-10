@@ -116,9 +116,9 @@ for pubsource in publist:
             md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
             
             md += """collection: """ +  publist[pubsource]["collection"]["name"]
-            md += """category: manuscripts\n"""
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
+            md += """\ncategory: manuscripts\n"""
             
             note = False
             if "note" in b.keys():

@@ -1,8 +1,9 @@
 ---
 title: "Attacking the Niederreiter-type cryptosystem based on rank metric"
-collection: publicationscategory: manuscripts
-
+collection: publications
 permalink: /publication/2020-01-01-Attacking-the-Niederreiter-type-cryptosystem-based-on-rank-metric
+category: manuscripts
+
 date: 2020-01-01
 venue: 'Int. J. Embed. Syst.'
 paperurl: 'https://doi.org/10.1504/IJES.2020.110653'

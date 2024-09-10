@@ -1,8 +1,9 @@
 ---
 title: "Towards Realizing Authorized Encrypted Search with Designed Access Policy"
-collection: publicationscategory: manuscripts
-
+collection: publications
 permalink: /publication/2019-01-01-Towards-Realizing-Authorized-Encrypted-Search-with-Designed-Access-Policy
+category: manuscripts
+
 date: 2019-01-01
 venue: 'In the proceedings of Science of Cyber Security - Second International Conference, SciSec 2019, Nanjing, China, August 9-11, 2019, Revised Selected Papers'
 paperurl: 'https://doi.org/10.1007/978-3-030-34637-9\_22'

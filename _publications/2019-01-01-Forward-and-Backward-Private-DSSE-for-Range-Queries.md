@@ -1,8 +1,9 @@
 ---
 title: "Forward and Backward Private DSSE for Range Queries"
-collection: publicationscategory: manuscripts
-
+collection: publications
 permalink: /publication/2019-01-01-Forward-and-Backward-Private-DSSE-for-Range-Queries
+category: manuscripts
+
 date: 2019-01-01
 venue: 'IACR Cryptol. ePrint Arch.'
 paperurl: 'https://eprint.iacr.org/2019/1240'

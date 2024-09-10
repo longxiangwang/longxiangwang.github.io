@@ -1,8 +1,9 @@
 ---
 title: "A Secure and Efficient E-Medical Record System via Searchable Encryption in Public Platform"
-collection: publicationscategory: manuscripts
-
+collection: publications
 permalink: /publication/2017-01-01-A-Secure-and-Efficient-E-Medical-Record-System-via-Searchable-Encryption-in-Public-Platform
+category: manuscripts
+
 date: 2017-01-01
 venue: 'KSII Trans. Internet Inf. Syst.'
 paperurl: 'https://doi.org/10.3837/tiis.2017.09.024'

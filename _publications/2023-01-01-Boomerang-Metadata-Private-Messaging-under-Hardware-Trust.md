@@ -1,8 +1,9 @@
 ---
 title: "Boomerang: Metadata-Private Messaging under Hardware Trust"
-collection: publicationscategory: manuscripts
-
+collection: publications
 permalink: /publication/2023-01-01-Boomerang-Metadata-Private-Messaging-under-Hardware-Trust
+category: manuscripts
+
 date: 2023-01-01
 venue: 'In the proceedings of 20th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2023, Boston, MA, April 17-19, 2023'
 paperurl: 'https://www.usenix.org/conference/nsdi23/presentation/jiang'

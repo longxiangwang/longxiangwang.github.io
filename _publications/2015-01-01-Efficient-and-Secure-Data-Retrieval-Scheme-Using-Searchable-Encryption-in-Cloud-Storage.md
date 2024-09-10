@@ -1,8 +1,9 @@
 ---
 title: "Efficient and Secure Data Retrieval Scheme Using Searchable Encryption in Cloud Storage"
-collection: publicationscategory: manuscripts
-
+collection: publications
 permalink: /publication/2015-01-01-Efficient-and-Secure-Data-Retrieval-Scheme-Using-Searchable-Encryption-in-Cloud-Storage
+category: manuscripts
+
 date: 2015-01-01
 venue: 'In the proceedings of International Symposium on Security and Privacy in Social Networks and Big Data, SocialSec 2015, Hangzhou, China, November 16-18, 2015'
 paperurl: 'https://doi.org/10.1109/SocialSec2015.16'

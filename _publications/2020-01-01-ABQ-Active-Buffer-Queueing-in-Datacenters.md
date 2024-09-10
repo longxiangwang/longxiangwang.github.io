@@ -1,8 +1,9 @@
 ---
 title: "ABQ: Active Buffer Queueing in Datacenters"
-collection: publicationscategory: manuscripts
-
+collection: publications
 permalink: /publication/2020-01-01-ABQ-Active-Buffer-Queueing-in-Datacenters
+category: manuscripts
+
 date: 2020-01-01
 venue: 'IEEE Netw.'
 paperurl: 'https://doi.org/10.1109/MNET.001.1900266'
