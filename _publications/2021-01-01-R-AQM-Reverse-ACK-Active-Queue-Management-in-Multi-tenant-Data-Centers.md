@@ -1,6 +1,7 @@
 ---
 title: "R-AQM: Reverse ACK Active Queue Management in Multi-tenant Data Centers"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2021-01-01-R-AQM-Reverse-ACK-Active-Queue-Management-in-Multi-tenant-Data-Centers
 date: 2021-01-01
 venue: 'In the proceedings of 29th IEEE International Conference on Network Protocols, ICNP 2021, Dallas, TX, USA, November 1-5, 2021'

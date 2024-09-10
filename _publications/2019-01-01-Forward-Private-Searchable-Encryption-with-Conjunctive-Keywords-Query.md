@@ -1,6 +1,7 @@
 ---
 title: "Forward Private Searchable Encryption with Conjunctive Keywords Query"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2019-01-01-Forward-Private-Searchable-Encryption-with-Conjunctive-Keywords-Query
 date: 2019-01-01
 venue: 'In the proceedings of Science of Cyber Security - Second International Conference, SciSec 2019, Nanjing, China, August 9-11, 2019, Revised Selected Papers'

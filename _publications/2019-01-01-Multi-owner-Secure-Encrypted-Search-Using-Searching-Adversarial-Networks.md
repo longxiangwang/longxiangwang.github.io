@@ -1,6 +1,7 @@
 ---
 title: "Multi-owner Secure Encrypted Search Using Searching Adversarial Networks"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2019-01-01-Multi-owner-Secure-Encrypted-Search-Using-Searching-Adversarial-Networks
 date: 2019-01-01
 venue: 'CoRR'

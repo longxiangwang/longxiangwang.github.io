@@ -1,6 +1,7 @@
 ---
 title: "Towards Efficient Cryptographic Data Validation Service in Edge Computing"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2023-01-01-Towards-Efficient-Cryptographic-Data-Validation-Service-in-Edge-Computing
 date: 2023-01-01
 venue: 'IEEE Trans. Serv. Comput.'

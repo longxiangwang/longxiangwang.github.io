@@ -1,6 +1,7 @@
 ---
 title: "Hardening secure search in encrypted database: a KGA-resistance conjunctive searchable encryption scheme from lattice"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2022-01-01-Hardening-secure-search-in-encrypted-database-a-KGA-resistance-conjunctive-searchable-encryption-scheme-from-lattice
 date: 2022-01-01
 venue: 'Soft Comput.'

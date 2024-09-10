@@ -1,6 +1,7 @@
 ---
 title: "Leakage-Abuse Attacks Against Forward and Backward Private Searchable Symmetric Encryption"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2023-01-01-Leakage-Abuse-Attacks-Against-Forward-and-Backward-Private-Searchable-Symmetric-Encryption
 date: 2023-01-01
 venue: 'CoRR'

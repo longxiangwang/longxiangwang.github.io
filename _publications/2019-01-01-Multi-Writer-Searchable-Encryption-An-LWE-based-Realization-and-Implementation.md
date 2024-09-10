@@ -1,6 +1,7 @@
 ---
 title: "Multi-Writer Searchable Encryption: An LWE-based Realization and Implementation"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2019-01-01-Multi-Writer-Searchable-Encryption-An-LWE-based-Realization-and-Implementation
 date: 2019-01-01
 venue: 'In the proceedings of Proceedings of the 2019 ACM Asia Conference on Computer and Communications Security, AsiaCCS 2019, Auckland, New Zealand, July 09-12, 2019'

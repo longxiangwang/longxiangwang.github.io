@@ -1,6 +1,7 @@
 ---
 title: "Throughput optimization of TCP incast congestion control in large-scale datacenter networks"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2017-01-01-Throughput-optimization-of-TCP-incast-congestion-control-in-large-scale-datacenter-networks
 date: 2017-01-01
 venue: 'Comput. Networks'

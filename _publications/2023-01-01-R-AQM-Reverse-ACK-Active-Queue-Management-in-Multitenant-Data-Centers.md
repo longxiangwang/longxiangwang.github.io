@@ -1,6 +1,7 @@
 ---
 title: "R-AQM: Reverse ACK Active Queue Management in Multitenant Data Centers"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2023-01-01-R-AQM-Reverse-ACK-Active-Queue-Management-in-Multitenant-Data-Centers
 date: 2023-01-01
 venue: 'IEEE/ACM Trans. Netw.'

@@ -1,6 +1,7 @@
 ---
 title: "Interpreting and Mitigating Leakage-abuse Attacks in Searchable Symmetric Encryption"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2021-01-01-Interpreting-and-Mitigating-Leakage-abuse-Attacks-in-Searchable-Symmetric-Encryption
 date: 2021-01-01
 venue: 'IACR Cryptol. ePrint Arch.'

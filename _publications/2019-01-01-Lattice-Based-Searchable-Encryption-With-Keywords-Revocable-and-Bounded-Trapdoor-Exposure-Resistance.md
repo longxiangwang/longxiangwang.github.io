@@ -1,6 +1,7 @@
 ---
 title: "Lattice-Based Searchable Encryption With Keywords Revocable and Bounded Trapdoor Exposure Resistance"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2019-01-01-Lattice-Based-Searchable-Encryption-With-Keywords-Revocable-and-Bounded-Trapdoor-Exposure-Resistance
 date: 2019-01-01
 venue: 'IEEE Access'

@@ -1,6 +1,7 @@
 ---
 title: "Enhancing TCP Incast congestion control over large-scale datacenter networks"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2015-01-01-Enhancing-TCP-Incast-congestion-control-over-large-scale-datacenter-networks
 date: 2015-01-01
 venue: 'In the proceedings of 23rd IEEE International Symposium on Quality of Service, IWQoS 2015, Portland, OR, USA, June 15-16, 2015'

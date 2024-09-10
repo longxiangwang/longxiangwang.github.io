@@ -1,6 +1,7 @@
 ---
 title: "Modeling Multi-path TCP Throughput with Coupled Congestion Control and Flow Control"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2015-01-01-Modeling-Multi-path-TCP-Throughput-with-Coupled-Congestion-Control-and-Flow-Control
 date: 2015-01-01
 venue: 'In the proceedings of Proceedings of the 18th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems, MSWiM 2015, Cancun, Mexico, November 2-6, 2015'

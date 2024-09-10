@@ -1,6 +1,7 @@
 ---
 title: "Optimization of Functional Bootstrap with Large LUT and Packing Key Switching"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2023-01-01-Optimization-of-Functional-Bootstrap-with-Large-LUT-and-Packing-Key-Switching
 date: 2023-01-01
 venue: 'IACR Cryptol. ePrint Arch.'

@@ -1,6 +1,7 @@
 ---
 title: "Practical Multi-Source Multi-Client Searchable Encryption With Forward Privacy: Refined Security Notion and New Constructions"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2024-01-01-Practical-Multi-Source-Multi-Client-Searchable-Encryption-With-Forward-Privacy-Refined-Security-Notion-and-New-Constructions
 date: 2024-01-01
 venue: 'IEEE Trans. Dependable Secur. Comput.'

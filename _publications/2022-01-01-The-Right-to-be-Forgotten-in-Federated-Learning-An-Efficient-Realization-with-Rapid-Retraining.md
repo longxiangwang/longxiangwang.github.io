@@ -1,6 +1,7 @@
 ---
 title: "The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2022-01-01-The-Right-to-be-Forgotten-in-Federated-Learning-An-Efficient-Realization-with-Rapid-Retraining
 date: 2022-01-01
 venue: 'CoRR'

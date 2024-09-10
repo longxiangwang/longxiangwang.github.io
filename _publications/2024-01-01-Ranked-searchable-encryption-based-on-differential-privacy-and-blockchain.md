@@ -1,6 +1,7 @@
 ---
 title: "Ranked searchable encryption based on differential privacy and blockchain"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2024-01-01-Ranked-searchable-encryption-based-on-differential-privacy-and-blockchain
 date: 2024-01-01
 venue: 'Wirel. Networks'

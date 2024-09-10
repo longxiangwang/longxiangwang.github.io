@@ -1,6 +1,7 @@
 ---
 title: "Hardening Database Padding for Searchable Encryption"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2019-01-01-Hardening-Database-Padding-for-Searchable-Encryption
 date: 2019-01-01
 venue: 'In the proceedings of 2019 IEEE Conference on Computer Communications, INFOCOM 2019, Paris, France, April 29 - May 2, 2019'

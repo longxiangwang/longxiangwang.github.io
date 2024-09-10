@@ -1,6 +1,7 @@
 ---
 title: "MINOS: regulating router dataplane actions in dynamic runtime environments"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2017-01-01-MINOS-regulating-router-dataplane-actions-in-dynamic-runtime-environments
 date: 2017-01-01
 venue: 'In the proceedings of Proceedings of the ACM Turing 50th Celebration Conference - China, TUR-C 2017, Shanghai, China, May 12-14, 2017'

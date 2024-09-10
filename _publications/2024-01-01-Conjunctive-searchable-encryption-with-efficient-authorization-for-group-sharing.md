@@ -1,6 +1,7 @@
 ---
 title: "Conjunctive searchable encryption with efficient authorization for group sharing"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2024-01-01-Conjunctive-searchable-encryption-with-efficient-authorization-for-group-sharing
 date: 2024-01-01
 venue: 'Wirel. Networks'

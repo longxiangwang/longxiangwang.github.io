@@ -1,6 +1,7 @@
 ---
 title: "Privacy-Preserving and Trusted Keyword Search for Multi-Tenancy Cloud"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2024-01-01-Privacy-Preserving-and-Trusted-Keyword-Search-for-Multi-Tenancy-Cloud
 date: 2024-01-01
 venue: 'IEEE Trans. Inf. Forensics Secur.'

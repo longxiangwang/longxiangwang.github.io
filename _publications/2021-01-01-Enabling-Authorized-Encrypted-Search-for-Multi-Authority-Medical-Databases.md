@@ -1,6 +1,7 @@
 ---
 title: "Enabling Authorized Encrypted Search for Multi-Authority Medical Databases"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2021-01-01-Enabling-Authorized-Encrypted-Search-for-Multi-Authority-Medical-Databases
 date: 2021-01-01
 venue: 'IEEE Trans. Emerg. Top. Comput.'

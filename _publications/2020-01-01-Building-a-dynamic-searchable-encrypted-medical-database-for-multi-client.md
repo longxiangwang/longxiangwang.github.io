@@ -1,6 +1,7 @@
 ---
 title: "Building a dynamic searchable encrypted medical database for multi-client"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2020-01-01-Building-a-dynamic-searchable-encrypted-medical-database-for-multi-client
 date: 2020-01-01
 venue: 'Inf. Sci.'

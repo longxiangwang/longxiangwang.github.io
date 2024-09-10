@@ -1,6 +1,7 @@
 ---
 title: "textdollartextbackslashsf PEBAtextdollar: Enhancing User Privacy and Coverage of Safe Browsing Services"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2023-01-01-textdollartextbackslashsf-PEBAtextdollar-Enhancing-User-Privacy-and-Coverage-of-Safe-Browsing-Services
 date: 2023-01-01
 venue: 'IEEE Trans. Dependable Secur. Comput.'

@@ -1,6 +1,7 @@
 ---
 title: "Towards Efficient Cryptographic Data Validation Service in Edge Computing"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2022-01-01-Towards-Efficient-Cryptographic-Data-Validation-Service-in-Edge-Computing
 date: 2022-01-01
 venue: 'In the proceedings of IEEE World Congress on Services, SERVICES 2022, Barcelona, Spain, July 10-16, 2022'

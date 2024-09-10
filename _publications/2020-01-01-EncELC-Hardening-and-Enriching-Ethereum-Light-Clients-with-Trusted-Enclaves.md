@@ -1,6 +1,7 @@
 ---
 title: "EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2020-01-01-EncELC-Hardening-and-Enriching-Ethereum-Light-Clients-with-Trusted-Enclaves
 date: 2020-01-01
 venue: 'In the proceedings of 39th IEEE Conference on Computer Communications, INFOCOM 2020, Toronto, ON, Canada, July 6-9, 2020'

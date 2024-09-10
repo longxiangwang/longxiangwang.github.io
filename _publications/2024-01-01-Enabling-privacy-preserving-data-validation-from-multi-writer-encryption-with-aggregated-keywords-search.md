@@ -1,6 +1,7 @@
 ---
 title: "Enabling privacy-preserving data validation from multi-writer encryption with aggregated keywords search"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2024-01-01-Enabling-privacy-preserving-data-validation-from-multi-writer-encryption-with-aggregated-keywords-search
 date: 2024-01-01
 venue: 'Wirel. Networks'

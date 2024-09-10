@@ -1,6 +1,7 @@
 ---
 title: "An Efficient Lattice-Based Encrypted Search Scheme with Forward Security"
-collection: publications
+collection: publicationscategory: manuscripts
+
 permalink: /publication/2022-01-01-An-Efficient-Lattice-Based-Encrypted-Search-Scheme-with-Forward-Security
 date: 2022-01-01
 venue: 'In the proceedings of Network and System Security - 16th International Conference, NSS 2022, Denarau Island, Fiji, December 9-12, 2022, Proceedings'
