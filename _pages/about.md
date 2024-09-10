@@ -31,15 +31,16 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   *IEEE Transactions on Services Computing (**TSC**), 2024*  
   [CCF A类期刊，SCI 2区, IF 8.21]
 
+- [Toward Full Accounting for Leakage Exploitation and Mitigation in Dynamic Encrypted Databases](#)  
+  **Lei Xu**, Anxin Zhou, Huayi Duan, Cong Wang, Qian Wang, and Xiahua Jia  
+  *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*  
+  [CCF A 类期刊]
+
 - [Leakage-Abuse Attacks Against Forward and Backward Private Searchable Symmetric Encryption](#)  
   **Lei Xu**\*, Leqian Zheng, Chengzhi Xu, Xingliang Yuan, and Cong Wang  
   *In Proc. of the 30th ACM Conference on Computer and Communications Security (**CCS'23**), 2023*  
   [CCF A 类会议]
 
-- [Toward Full Accounting for Leakage Exploitation and Mitigation in Dynamic Encrypted Databases](#)  
-  **Lei Xu**, Anxin Zhou, Huayi Duan, Cong Wang, Qian Wang, and Xiahua Jia  
-  *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2023*  
-  [CCF A 类期刊]
 
 - [Towards Efficient Cryptographic Data Validation Service in Edge Computing](#)  
   **Lei Xu**\*, Xingliang Yuan, Zhengxiang Zhou, Cong Wang, and Chungen Xu  
