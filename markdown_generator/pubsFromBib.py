@@ -118,6 +118,7 @@ for pubsource in publist:
             md += """collection: """ +  publist[pubsource]["collection"]["name"]
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
+            
             md += """\ncategory: manuscripts\n"""
             
             note = False
