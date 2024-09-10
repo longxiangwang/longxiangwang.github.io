@@ -27,15 +27,15 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 # 📝 Publications 
 
 - [Privacy Enhanced Authentication for Online Learning Healthcare Systems](#)
+  **Jianghua Liu**, Jian Yang, Xingyi Huang, **Lei Xu**\*, and Yang Xiang  
+  *IEEE Transactions on Services Computing (**TSC**), 2024*  
+  [CCF A类期刊，SCI 2区, IF 8.21]
   <div class="badge-container">
     <span class="badge badge-ccf">CCF</span>
     <span class="badge badge-a">A</span>
     <span class="badge badge-conference">USENIX Security</span>
     <span class="badge badge-year">2024</span>
 </div>
-  **Jianghua Liu**, Jian Yang, Xingyi Huang, **Lei Xu**\*, and Yang Xiang  
-  *IEEE Transactions on Services Computing (**TSC**), 2024*  
-  [CCF A类期刊，SCI 2区, IF 8.21]
 
 - [Toward Full Accounting for Leakage Exploitation and Mitigation in Dynamic Encrypted Databases](#)  
   **Lei Xu**, Anxin Zhou, Huayi Duan, Cong Wang, Qian Wang, and Xiahua Jia  

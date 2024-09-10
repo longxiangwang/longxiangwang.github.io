@@ -327,7 +327,7 @@
 }
 
 .badge-container {
-  display: flex;
+  display: inline-flex;
   gap: 5px;
   align-items: center;
 }
