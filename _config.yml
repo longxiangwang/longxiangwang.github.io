@@ -25,14 +25,14 @@ author:
   name             : "Lei Xu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Nanjing"
+  employer         : "Nanjing University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "leixu@njust.edu.cn" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://dblp.org/pid/19/360-19.html"
+  googlescholar    : "https://scholar.google.com/citations?user=HY5jH_MAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
