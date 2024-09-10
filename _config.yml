@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lei XU / Personal Website "
+title                    : "Lei XU - NJUST"
 title_separator          : "-"
 name                     : &name "Lei XU"
 description              : &description "personal description"
