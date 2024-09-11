@@ -54,70 +54,41 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 ## Journal Papers
 
-- [Privacy Enhanced Authentication for Online Learning Healthcare Systems](#)  
+- [Privacy Enhanced Authentication for Online Learning Healthcare Systems](#) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TSC 2024](https://img.shields.io/badge/TSC-2024-blue?style=flat-square)   
   Jianghua Liu, Jian Yang, Xingyi Huang, **Lei Xu**\*, and Yang Xiang  
   *IEEE Transactions on Services Computing (**TSC**), 2024*  
-  [CCF A类期刊，SCI 2区, IF 8.21]
 
-- [Toward Full Accounting for Leakage Exploitation and Mitigation in Dynamic Encrypted Databases](#)  
+- [Toward Full Accounting for Leakage Exploitation and Mitigation in Dynamic Encrypted Databases](#) (https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)   
   **Lei Xu**, Anxin Zhou, Huayi Duan, Cong Wang, Qian Wang, and Xiahua Jia  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*  
   [CCF A 类期刊]
 
 
-- [Towards Efficient Cryptographic Data Validation Service in Edge Computing](#)  
+- [Towards Efficient Cryptographic Data Validation Service in Edge Computing](#) (https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TSC 2023](https://img.shields.io/badge/TSC-2023-blue?style=flat-square)   
   **Lei Xu**\*, Xingliang Yuan, Zhengxiang Zhou, Cong Wang, and Chungen Xu  
   *IEEE Transactions on Services Computing (**TSC**), vol.16, no.1, pp. 656 - 669, 2023*  
-  [CCF A类期刊，SCI 2区, IF 8.21]
 
-- [Practical Multi-Source Multi-Client Searchable Encryption With Forward Privacy: Refined Security Notion and New Constructions](#)  
+- [Practical Multi-Source Multi-Client Searchable Encryption With Forward Privacy: Refined Security Notion and New Constructions](#) (https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)   
   Lin Mei, Chungen Xu, **Lei Xu**, Xingliang Yuan, and Joseph K. Liu  
-  *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2023*  
-  [CCF A 类期刊]
+  *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*  
 
-
-- [PEBA: Enhancing User Privacy and Coverage of Safe Browsing Services](#)  
+- [PEBA: Enhancing User Privacy and Coverage of Safe Browsing Services](#) (https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)    
   Yuefeng Du, Huayi Duan, **Lei Xu**, Helei Cui, Cong Wang, Qian Wang  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), vol.20, no.5, pp.4343 - 4358, 2023*  
-  [CCF A类期刊，SCI 2区, IF 6.86]
 
 - [RASS: Enabling Privacy-Preserving and Authentication in Online AI-Driven Healthcare Applications](#)  
   Jianghua Liu, Chao Chen, Youyang Qu, Shuiqiao Yang, **Lei Xu**\*  
   *ISA Transactions, 2023*  
   [SCI 2区]
 
-
-
 - [Toward Quality-aware Data Valuation in Learning Algorithms: Practices, Challenges, and Beyond](#)  
   **Lei Xu**, Jiaqing Chen, Shan Chang, Cong Wang, and Bo Li  
   *IEEE Network Magazine, 2023*  
   [中科院SCI 2区期刊]
 
-- [Enabling Privacy-Preserving Data Validation from Multi-Writer Encryption with Aggregated Keywords Search](#)  
-  **Lei Xu**\*, Chengzhi Xu, Jianghua Liu, and Xiaocan Jin  
-  *Wireless Networks, 2022*  
-  [CCF C类, Accepted]
-
-- [Conjunctive Searchable Encryption with Efficient Authorization for Group Sharing](#)  
-  Lin Mei, Chungen Xu, and **Lei Xu**  
-  *Wireless Networks, 2022*  
-  [CCF C类, Accepted]
-
-
-
-- [Verifiable Privacy-Preserving Neural Network on Encrypted Data](#)  
-  Yichuan Liu, Chungen Xu, **Lei Xu**, Lin Mei, Xing Zhang, and Cong Zuo  
-  *Journal of Information Hiding and Privacy Protection, vol.3, no.4, pp.151–164, 2022*
-
-- [Hardening Secure Search in Encrypted Database: A KGA-Resistance Conjunctive Searchable Encryption Scheme from Lattice](#)  
-  Xiaoling Yu, Chungen Xu, **Lei Xu**, and Lin Mei  
-  *Soft Computing, vol.26, no.21, pp.11139-11151, 2022*  
-  [SCI]
-
-- [Toward a Secure, Rich, and Fair Query Service for Light Clients on Public Blockchains](#)  
+- [Toward a Secure, Rich, and Fair Query Service for Light Clients on Public Blockchains](#)  (https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2022](https://img.shields.io/badge/TDSC-2022-blue?style=flat-square)    
   Chengjun Cai, **Lei Xu**, Anxin Zhou, and Cong Wang  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), vol.19, no.6, pp.3640 - 3655, 2022*  
-  [CCF A类，SCI 2区, IF 6.86]
 
 - [Forward and Backward Private DSSE for Range Queries](#)  
   Cong Zuo, Shifeng Sun, Joseph K. Liu, Jun Shao, Josef Pieprzyk, and **Lei Xu**  
