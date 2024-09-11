@@ -29,6 +29,12 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 ## Conference Papers  
 
 - [SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores](https://dl.acm.org/doi/10.14778/3675034.3675038)  
+  <div class="badge-container">
+      <span class="badge badge-ccf">CCF</span>
+      <span class="badge badge-a">A</span>
+      <span class="badge badge-conference">USENIX Security</span>
+      <span class="badge badge-year">2024</span>
+  </div>
   Leqian Zheng, **Lei Xu**, Cong Wang, Sheng Wang, Yuke Hu, Zhan Qin, Feifei Li, Kui Ren  
   *In Proc. of the 50th International Conference on Very Large Databases, 2024*  
   [CCF A类会议]
@@ -53,12 +59,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   *In the 39th International Conference on Computer Communication (INFOCOM’20), 2020*  
   [CCF A 类会议]
 
-  <div class="badge-container">
-      <span class="badge badge-ccf">CCF</span>
-      <span class="badge badge-a">A</span>
-      <span class="badge badge-conference">USENIX Security</span>
-      <span class="badge badge-year">2024</span>
-  </div>
+
 
 - [Hardening Database Padding for Searchable Encryption](https://ieeexplore.ieee.org/document/8737588)  
   **Lei Xu**, Xingliang Yuan, Cong Wang, Qian Wang, Chungen Xu  
