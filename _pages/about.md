@@ -33,27 +33,27 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   *In Proc. of the 50th International Conference on Very Large Databases, 2024*  
   [CCF A类会议]
 
-- [Leakage-Abuse Attacks Against Forward and Backward Private Searchable Symmetric Encryption](#)  
+- [Leakage-Abuse Attacks Against Forward and Backward Private Searchable Symmetric Encryption](https://dl.acm.org/doi/10.1145/3576915.3623085)  
   **Lei Xu**\*, Leqian Zheng, Chengzhi Xu, Xingliang Yuan, and Cong Wang  
   *In Proc. of the 30th ACM Conference on Computer and Communications Security (**CCS'23**), 2023*  
   [CCF A 类会议]
 
-- [Boomerang: Metadata-Private Messaging under Hardware Trust](#)  
+- [Boomerang: Metadata-Private Messaging under Hardware Trust](https://www.usenix.org/conference/nsdi23/presentation/jiang)  
   Peipei Jiang, Qian Wang, Jianhao Cheng, Cong Wang, **Lei Xu**, Xinyu Wang, Yihao Wu, Xiaoyuan Li, and Kui Ren  
   *In Proc. of the 20th USENIX Symposium on Networked Systems Design and Implementation (**NSDI'23**), 2023*  
   [CCF A类会议]
 
-- [The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining](#)  
+- [The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining](https://ieeexplore.ieee.org/document/9796721)  
   Yi Liu, **Lei Xu**, Xingliang Yuan, Cong Wang, Bo Li  
   *In the 41st International Conference on Computer Communication (**INFOCOM'22**), 2022*  
   [CCF A类会议]
 
-- [EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves](#)  
+- [EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves](https://ieeexplore.ieee.org/document/9155385)  
   **Chengjun Cai**, **Lei Xu**, Anxin Zhou, Ruochen Wang, Cong Wang, Qian Wang  
   *In the 39th International Conference on Computer Communication (INFOCOM’20), 2020*  
   [CCF A 类会议]
 
-- [Hardening Database Padding for Searchable Encryption](#)  
+- [Hardening Database Padding for Searchable Encryption](https://ieeexplore.ieee.org/document/8737588)  
   **Lei Xu**, Xingliang Yuan, Cong Wang, Qian Wang, Chungen Xu  
   *In the 38th International Conference on Computer Communication (INFOCOM’19), 2019*  
   [CCF A 类会议]
