@@ -33,7 +33,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   *In Proc. of the 50th International Conference on Very Large Databases, 2024*  
 
 - [Leakage-Abuse Attacks Against Forward and Backward Private Searchable Symmetric Encryption](https://dl.acm.org/doi/10.1145/3576915.3623085) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![CCS 2023](https://img.shields.io/badge/CCS-2023-blue?style=flat-square)   
-  **Lei Xu**\*, Leqian Zheng, Chengzhi Xu, Xingliang Yuan, and Cong Wang  
+  **Lei Xu**, Leqian Zheng, Chengzhi Xu, Xingliang Yuan, and Cong Wang  
   *In Proc. of the 30th ACM Conference on Computer and Communications Security (**CCS'23**), 2023*  
 
 - [Boomerang: Metadata-Private Messaging under Hardware Trust](https://www.usenix.org/conference/nsdi23/presentation/jiang) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![NSDI 2023](https://img.shields.io/badge/NSDI-2023-blue?style=flat-square)   
