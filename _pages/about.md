@@ -32,7 +32,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   <div class="badge-container">
       <span class="badge badge-ccf">CCF</span>
       <span class="badge badge-a">A</span>
-      <span class="badge badge-conference">USENIX Security</span>
+      <span class="badge badge-conference">VLDB</span>
       <span class="badge badge-year">2024</span>
   </div>
   Leqian Zheng, **Lei Xu**, Cong Wang, Sheng Wang, Yuke Hu, Zhan Qin, Feifei Li, Kui Ren  
