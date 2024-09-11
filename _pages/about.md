@@ -53,6 +53,13 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   *In the 39th International Conference on Computer Communication (INFOCOM’20), 2020*  
   [CCF A 类会议]
 
+  <div class="badge-container">
+      <span class="badge badge-ccf">CCF</span>
+      <span class="badge badge-a">A</span>
+      <span class="badge badge-conference">USENIX Security</span>
+      <span class="badge badge-year">2024</span>
+  </div>
+
 - [Hardening Database Padding for Searchable Encryption](https://ieeexplore.ieee.org/document/8737588)  
   **Lei Xu**, Xingliang Yuan, Cong Wang, Qian Wang, Chungen Xu  
   *In the 38th International Conference on Computer Communication (INFOCOM’19), 2019*  
