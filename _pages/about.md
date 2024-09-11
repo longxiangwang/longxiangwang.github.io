@@ -28,6 +28,34 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 ## Conference Papers  
 
+- [SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores](#)  
+  **Leqian Zheng**, **Lei Xu**, Cong Wang, Sheng Wang, Yuke Hu, Zhan Qin, Feifei Li, Kui Ren  
+  *In the 50th International Conference on Very Large Databases, 2024*  
+  [CCF A类会议]
+
+- [Leakage-Abuse Attacks Against Forward and Backward Private Searchable Symmetric Encryption](#)  
+  **Lei Xu**\*, Leqian Zheng, Chengzhi Xu, Xingliang Yuan, and Cong Wang  
+  *In Proc. of the 30th ACM Conference on Computer and Communications Security (**CCS'23**), 2023*  
+  [CCF A 类会议]
+
+- [Boomerang: Metadata-Private Messaging under Hardware Trust](#)  
+  Peipei Jiang, Qian Wang, Jianhao Cheng, Cong Wang, **Lei Xu**, Xinyu Wang, Yihao Wu, Xiaoyuan Li, and Kui Ren  
+  *In Proc. of the 20th USENIX Symposium on Networked Systems Design and Implementation (**NSDI'23**), 2023*  
+  [CCF A类会议]
+
+- [The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining](#)  
+  Yi Liu, **Lei Xu**, Xingliang Yuan, Cong Wang, Bo Li  
+  *In the 41st International Conference on Computer Communication (**INFOCOM'22**), 2022*  
+  [CCF A类会议]
+
+- [An Efficient Lattice-based Encrypted Search Scheme with Forward Security](#)  
+  Xiaoling Yu, **Lei Xu**\*, Xin Huang, and Chungen Xu  
+  *In Proc. of NSS, 2022*
+
+- [Efficient and Fine-Grained Sharing of Signed Healthcare Data in Smart Healthcare](#)  
+  Jianghua Liu, **Lei Xu**\*, Bruce Gu, Lei Cui, and Fei Zhu  
+   *In Proc. of NSS, 2022*
+
 ## Journal Papers
 
 - [Privacy Enhanced Authentication for Online Learning Healthcare Systems](#)  
@@ -40,11 +68,6 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*  
   [CCF A 类期刊]
 
-- [Leakage-Abuse Attacks Against Forward and Backward Private Searchable Symmetric Encryption](#)  
-  **Lei Xu**\*, Leqian Zheng, Chengzhi Xu, Xingliang Yuan, and Cong Wang  
-  *In Proc. of the 30th ACM Conference on Computer and Communications Security (**CCS'23**), 2023*  
-  [CCF A 类会议]
-
 
 - [Towards Efficient Cryptographic Data Validation Service in Edge Computing](#)  
   **Lei Xu**\*, Xingliang Yuan, Zhengxiang Zhou, Cong Wang, and Chungen Xu  
@@ -56,10 +79,6 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2023*  
   [CCF A 类期刊]
 
-- [Boomerang: Metadata-Private Messaging under Hardware Trust](#)  
-  Peipei Jiang, Qian Wang, Jianhao Cheng, Cong Wang, **Lei Xu**, Xinyu Wang, Yihao Wu, Xiaoyuan Li, and Kui Ren  
-  *In Proc. of the 20th USENIX Symposium on Networked Systems Design and Implementation (**NSDI'23**), 2023*  
-  [CCF A类会议]
 
 - [PEBA: Enhancing User Privacy and Coverage of Safe Browsing Services](#)  
   Yuefeng Du, Huayi Duan, **Lei Xu**, Helei Cui, Cong Wang, Qian Wang  
@@ -71,10 +90,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   *ISA Transactions, 2023*  
   [SCI 2区]
 
-- [The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining](#)  
-  Yi Liu, **Lei Xu**, Xingliang Yuan, Cong Wang, Bo Li  
-  *In the 41st International Conference on Computer Communication (**INFOCOM'22**), 2022*  
-  [CCF A类会议]
+
 
 - [Toward Quality-aware Data Valuation in Learning Algorithms: Practices, Challenges, and Beyond](#)  
   **Lei Xu**, Jiaqing Chen, Shan Chang, Cong Wang, and Bo Li  
@@ -91,13 +107,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   *Wireless Networks, 2022*  
   [CCF C类, Accepted]
 
-- [An Efficient Lattice-based Encrypted Search Scheme with Forward Security](#)  
-  Xiaoling Yu, **Lei Xu**\*, Xin Huang, and Chungen Xu  
-  *In Proc. of NSS, 2022*
 
-- [Efficient and Fine-Grained Sharing of Signed Healthcare Data in Smart Healthcare](#)  
-  Jianghua Liu, **Lei Xu**\*, Bruce Gu, Lei Cui, and Fei Zhu  
-  *In Proc. of NSS, 2022*
 
 - [Verifiable Privacy-Preserving Neural Network on Encrypted Data](#)  
   Yichuan Liu, Chungen Xu, **Lei Xu**, Lin Mei, Xing Zhang, and Cong Zuo  
