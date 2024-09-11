@@ -52,6 +52,10 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   **Lei Xu**, Xingliang Yuan, Cong Wang, Qian Wang, Chungen Xu  
   *In Proc. of the 38th International Conference on Computer Communication (**INFOCOM’19**), 2019*  
 
+- [Multi-Writer Searchable Encryption: An LWE-based Realization and Implementation](https://dl.acm.org/doi/10.1145/3321705.3329814) ![CCF C](https://img.shields.io/badge/CCF-C-red?style=flat-square) ![AsiaCCS 2019](https://img.shields.io/badge/AsiaCCS-2019-blue?style=flat-square)    
+  **Lei Xu**, Xingliang Yuan, Ron Steinfeld, Cong Wang, and Chungen Xu 
+   *In Proc. of the 14th ACM ASIA Conference on Computer and Communications Security (**AsiaCCS’19**)*.  
+
 ## Journal Papers
 
 - [Toward Full Accounting for Leakage Exploitation and Mitigation in Dynamic Encrypted Databases](https://ieeexplore.ieee.org/document/10185078) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)   
