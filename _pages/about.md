@@ -54,7 +54,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 - [Multi-Writer Searchable Encryption: An LWE-based Realization and Implementation](https://dl.acm.org/doi/10.1145/3321705.3329814) ![CCF C](https://img.shields.io/badge/CCF-C-red?style=flat-square) ![AsiaCCS 2019](https://img.shields.io/badge/AsiaCCS-2019-blue?style=flat-square)    
   **Lei Xu**, Xingliang Yuan, Ron Steinfeld, Cong Wang, and Chungen Xu  
-   *In Proc. of the 14th ACM ASIA Conference on Computer and Communications Security (**AsiaCCS’19**)*.  
+   *In Proc. of the 14th ACM ASIA Conference on Computer and Communications Security (**AsiaCCS’19**), 2019*.  
 
 ## Journal Papers
 
