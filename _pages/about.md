@@ -48,13 +48,15 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   *In the 41st International Conference on Computer Communication (**INFOCOM'22**), 2022*  
   [CCF A类会议]
 
-- [An Efficient Lattice-based Encrypted Search Scheme with Forward Security](#)  
-  Xiaoling Yu, **Lei Xu**\*, Xin Huang, and Chungen Xu  
-  *In Proc. of NSS, 2022*
+- [EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves](#)  
+  **Chengjun Cai**, **Lei Xu**, Anxin Zhou, Ruochen Wang, Cong Wang, Qian Wang  
+  *In the 39th International Conference on Computer Communication (INFOCOM’20), 2020*  
+  [CCF A 类会议]
 
-- [Efficient and Fine-Grained Sharing of Signed Healthcare Data in Smart Healthcare](#)  
-  Jianghua Liu, **Lei Xu**\*, Bruce Gu, Lei Cui, and Fei Zhu  
-   *In Proc. of NSS, 2022*
+- [Hardening Database Padding for Searchable Encryption](#)  
+  **Lei Xu**, Xingliang Yuan, Cong Wang, Qian Wang, Chungen Xu  
+  *In the 38th International Conference on Computer Communication (INFOCOM’19), 2019*  
+  [CCF A 类会议]
 
 ## Journal Papers
 
