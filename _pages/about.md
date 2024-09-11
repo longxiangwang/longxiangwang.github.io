@@ -111,7 +111,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 - *2023.02 - 2024.01*, Research Associate, supervised by by [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/), Department of Computer Science, City University of Hong Kong.
 - *2019.04 - 2020.09*, Postdoctoral, supervised by by [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/), Department of Computer Science, City University of Hong Kong.
 - *2017.04 - 2018.04*, Joint training PhD student, supervised by [Xingliang Yuan](https://findanexpert.unimelb.edu.au/profile/1065384-xingliang-yuan) and [Joseph Liu](https://research.monash.edu/en/persons/joseph-liu), Faculty of Information Technology, Monash University. 
-- *2012.09 - 2019.09*, Doctor of Philosophy in Mathematics, supervised by Chungen Xu and Zhipeng Qiu, Nanjing University of Science and Technology. 
+- *2012.09 - 2019.09*, Doctor of Philosophy in Mathematics, supervised by [Chungen Xu](https://teacher.njust.edu.cn/lxy/xcg/list.htm) and [Zhipeng Qiu](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=MmG3MEu8ISxgW2tFSl9Ixw==&yxsh=mChmz4vzHpw=&zydm=!F3wm6iGOmo=), Nanjing University of Science and Technology. 
 - *2008.09 - 2012.06*, Bachelor of Science in Mathematics and Applied Mathematics, Anhui Normal University. 
 
 <!-- # 💬 Invited Talks
