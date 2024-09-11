@@ -54,11 +54,11 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 ## Journal Papers
 
-- [Toward Full Accounting for Leakage Exploitation and Mitigation in Dynamic Encrypted Databases](#) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)   
+- [Toward Full Accounting for Leakage Exploitation and Mitigation in Dynamic Encrypted Databases](https://ieeexplore.ieee.org/document/10185078) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)   
   **Lei Xu**, Anxin Zhou, Huayi Duan, Cong Wang, Qian Wang, and Xiahua Jia  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*  
 
-- [Privacy Enhanced Authentication for Online Learning Healthcare Systems](#) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TSC 2024](https://img.shields.io/badge/TSC-2024-blue?style=flat-square)   
+- [Privacy Enhanced Authentication for Online Learning Healthcare Systems](https://ieeexplore.ieee.org/document/10045827) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TSC 2024](https://img.shields.io/badge/TSC-2024-blue?style=flat-square)   
   Jianghua Liu, Jian Yang, Xingyi Huang, **Lei Xu**\*, and Yang Xiang  
   *IEEE Transactions on Services Computing (**TSC**), 2024*  
 
@@ -66,16 +66,16 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   Lin Mei, Chungen Xu, **Lei Xu**, Xingliang Yuan, and Joseph K. Liu  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*  
 
-- [Toward Quality-aware Data Valuation in Learning Algorithms: Practices, Challenges, and Beyond](#)  
+- [Toward Quality-aware Data Valuation in Learning Algorithms: Practices, Challenges, and Beyond](https://ieeexplore.ieee.org/document/10348525)  
   **Lei Xu**, Jiaqing Chen, Shan Chang, Cong Wang, and Bo Li  
   *IEEE Network Magazine, 2023*  
   [中科院SCI 2区期刊]
 
-- [Towards Efficient Cryptographic Data Validation Service in Edge Computing](#) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TSC 2023](https://img.shields.io/badge/TSC-2023-blue?style=flat-square)   
+- [Towards Efficient Cryptographic Data Validation Service in Edge Computing](https://ieeexplore.ieee.org/document/9534675) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TSC 2023](https://img.shields.io/badge/TSC-2023-blue?style=flat-square)   
   **Lei Xu**\*, Xingliang Yuan, Zhengxiang Zhou, Cong Wang, and Chungen Xu  
   *IEEE Transactions on Services Computing (**TSC**), vol.16, no.1, pp. 656 - 669, 2023*  
 
-- [PEBA: Enhancing User Privacy and Coverage of Safe Browsing Services](#) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2023](https://img.shields.io/badge/TDSC-2023-blue?style=flat-square)    
+- [PEBA: Enhancing User Privacy and Coverage of Safe Browsing Services](https://ieeexplore.ieee.org/document/9880540) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2023](https://img.shields.io/badge/TDSC-2023-blue?style=flat-square)    
   Yuefeng Du, Huayi Duan, **Lei Xu**, Helei Cui, Cong Wang, Qian Wang  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), vol.20, no.5, pp.4343 - 4358, 2023*  
 
@@ -96,12 +96,12 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   **Lei Xu**, Shifeng Sun, Xingliang Yuan, Joseph Liu, Cong Zuo, and Chungen Xu  
   *IEEE Transactions on Emerging Topics in Computing (**TETC**), vol.9, no.1, pp.534 - 546, 2021*  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
