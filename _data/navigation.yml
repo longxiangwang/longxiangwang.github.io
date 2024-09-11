@@ -12,8 +12,8 @@ main:
   - title: "Experiences and Educations"
     url: "/#-experiences-and-educations"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  #- title: "Honors and Awards"
+  #  url: "/#-honors-and-awards"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
