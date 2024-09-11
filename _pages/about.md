@@ -24,7 +24,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 - [Privacy Enhanced Authentication for Online Learning Healthcare Systems](#)  
   **Jianghua Liu**, Jian Yang, Xingyi Huang, **Lei Xu**\*, and Yang Xiang  
