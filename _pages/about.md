@@ -58,21 +58,21 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   Jianghua Liu, Jian Yang, Xingyi Huang, **Lei Xu**\*, and Yang Xiang  
   *IEEE Transactions on Services Computing (**TSC**), 2024*  
 
-- [Toward Full Accounting for Leakage Exploitation and Mitigation in Dynamic Encrypted Databases](#) (https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)   
+- [Toward Full Accounting for Leakage Exploitation and Mitigation in Dynamic Encrypted Databases](#) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)   
   **Lei Xu**, Anxin Zhou, Huayi Duan, Cong Wang, Qian Wang, and Xiahua Jia  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*  
   [CCF A 类期刊]
 
 
-- [Towards Efficient Cryptographic Data Validation Service in Edge Computing](#) (https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TSC 2023](https://img.shields.io/badge/TSC-2023-blue?style=flat-square)   
+- [Towards Efficient Cryptographic Data Validation Service in Edge Computing](#) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TSC 2023](https://img.shields.io/badge/TSC-2023-blue?style=flat-square)   
   **Lei Xu**\*, Xingliang Yuan, Zhengxiang Zhou, Cong Wang, and Chungen Xu  
   *IEEE Transactions on Services Computing (**TSC**), vol.16, no.1, pp. 656 - 669, 2023*  
 
-- [Practical Multi-Source Multi-Client Searchable Encryption With Forward Privacy: Refined Security Notion and New Constructions](#) (https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)   
+- [Practical Multi-Source Multi-Client Searchable Encryption With Forward Privacy: Refined Security Notion and New Constructions](#) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)   
   Lin Mei, Chungen Xu, **Lei Xu**, Xingliang Yuan, and Joseph K. Liu  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*  
 
-- [PEBA: Enhancing User Privacy and Coverage of Safe Browsing Services](#) (https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)    
+- [PEBA: Enhancing User Privacy and Coverage of Safe Browsing Services](#) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)    
   Yuefeng Du, Huayi Duan, **Lei Xu**, Helei Cui, Cong Wang, Qian Wang  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), vol.20, no.5, pp.4343 - 4358, 2023*  
 
@@ -86,7 +86,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   *IEEE Network Magazine, 2023*  
   [中科院SCI 2区期刊]
 
-- [Toward a Secure, Rich, and Fair Query Service for Light Clients on Public Blockchains](#)  (https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2022](https://img.shields.io/badge/TDSC-2022-blue?style=flat-square)    
+- [Toward a Secure, Rich, and Fair Query Service for Light Clients on Public Blockchains](#) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2022](https://img.shields.io/badge/TDSC-2022-blue?style=flat-square)    
   Chengjun Cai, **Lei Xu**, Anxin Zhou, and Cong Wang  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), vol.19, no.6, pp.3640 - 3655, 2022*  
 
