@@ -30,7 +30,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 - [SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores](#)  
   **Leqian Zheng**, **Lei Xu**, Cong Wang, Sheng Wang, Yuke Hu, Zhan Qin, Feifei Li, Kui Ren  
-  *In the 50th International Conference on Very Large Databases, 2024*  
+  *In Proc. of the 50th International Conference on Very Large Databases, 2024*  
   [CCF A类会议]
 
 - [Leakage-Abuse Attacks Against Forward and Backward Private Searchable Symmetric Encryption](#)  
