@@ -22,7 +22,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉🎉 Our paper “SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores” was accepted by VLDB 2024. Congratulations to Leqian！ 
 
 # 📝 Selected Publications 
 
