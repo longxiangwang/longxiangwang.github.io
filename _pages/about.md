@@ -66,7 +66,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   Lin Mei, Chungen Xu, **Lei Xu**, Xingliang Yuan, and Joseph K. Liu  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*  
  
-- [Toward Quality-aware Data Valuation in Learning Algorithms: Practices, Challenges, and Beyond](https://ieeexplore.ieee.org/document/10348525) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-red?style=flat-square) ![MNET 2024](https://img.shields.io/badge/MNET-2024-blue?style=flat-square)
+- [Toward Quality-aware Data Valuation in Learning Algorithms: Practices, Challenges, and Beyond](https://ieeexplore.ieee.org/document/10348525) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-red?style=flat-square) ![MNET 2024](https://img.shields.io/badge/MNET-2024-blue?style=flat-square)  
   **Lei Xu**, Jiaqing Chen, Shan Chang, Cong Wang, and Bo Li  
   *IEEE Network Magazine, 2023*  
 
