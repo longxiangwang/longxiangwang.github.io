@@ -120,7 +120,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 - 2020: BlockApp
 
 ## Reviewer and External Reviewer
-- AsiaCrypt 2024, AsiaCrypt 2023, Trustcom 20, etc.
+- AsiaCrypt 2024, AsiaCrypt 2023, Trustcom 2020, etc.
 - IEEE TDSC, IEEE TIFS, IEEE TSC, IEEE TKDE, IEEE IOTJ, etc.
 
 <!-- # 🎖 Honors and Awards
