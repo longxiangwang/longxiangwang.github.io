@@ -107,7 +107,8 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Experiences and Educations
-- *2020.09 -        *, Doctor of Philosophy in Mathematics, Nanjing University of Science and Technology. 
+- *2020.09 -        *, Associate Professor, Nanjing University of Science and Technology.
+- *2023.02 - 2024.01*, Research Associate, supervised by by Cong Wang, Department of Computer Science, City University of Hong Kong.
 - *2019.04 - 2020.09*, Postdoctoral, supervised by by Cong Wang, Department of Computer Science, City University of Hong Kong.
 - *2017.04 - 2018.04*, Joint training PhD student, supervised by Xingliang Yuan and Joseph Liu, Faculty of Information Technology, Monash University. 
 - *2012.09 - 2019.09*, Doctor of Philosophy in Mathematics, supervised by Chungen Xu and Zhipeng Qiu, Nanjing University of Science and Technology. 
