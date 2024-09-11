@@ -42,15 +42,15 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 - [The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining](https://ieeexplore.ieee.org/document/9796721) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![INFOCOM 2022](https://img.shields.io/badge/INFOCOM-2022-blue?style=flat-square)    
   Yi Liu, **Lei Xu**, Xingliang Yuan, Cong Wang, Bo Li  
-  *In the 41st International Conference on Computer Communication (**INFOCOM'22**), 2022*  
+  *In Proc. of the 41st International Conference on Computer Communication (**INFOCOM'22**), 2022*  
 
 - [EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves](https://ieeexplore.ieee.org/document/9155385) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![INFOCOM 2020](https://img.shields.io/badge/INFOCOM-2020-blue?style=flat-square)   
   Chengjun Cai, **Lei Xu**, Anxin Zhou, Ruochen Wang, Cong Wang, Qian Wang  
-  *In the 39th International Conference on Computer Communication (INFOCOM’20), 2020*  
+  *In Proc. of the 39th International Conference on Computer Communication (INFOCOM’20), 2020*  
 
 - [Hardening Database Padding for Searchable Encryption](https://ieeexplore.ieee.org/document/8737588) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![INFOCOM 2019](https://img.shields.io/badge/INFOCOM-2019-blue?style=flat-square)   
   **Lei Xu**, Xingliang Yuan, Cong Wang, Qian Wang, Chungen Xu  
-  *In the 38th International Conference on Computer Communication (INFOCOM’19), 2019*  
+  *In Proc. of the 38th International Conference on Computer Communication (INFOCOM’19), 2019*  
 
 ## Journal Papers
 
