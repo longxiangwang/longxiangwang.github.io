@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an associate professor in School of Mathematics and Statistics, Nanjing University of Science and Technology. I received my Ph.D degree in Nanjing University of Science and Technology and worked as a research postdoc at the Department of Computer Science, City University of Hong Kong. My research interest includes information security, cryptography with recent focus on encrypted search and quantum-proof cryptography. I have published more than 40 papers data security papers with total <a href='https://scholar.google.com/citations?user=HY5jH_MAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/leixu-crypto/leixu-crypto.github.io/google-scholar-stats/gs_data.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, including ACM CCS, VLDB, USENIX NDSI, IEEE INFOCOM, ACM ASIACCS, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Information Forensics and Security, IEEE Transactions on Services Computing and so on.
+I am currently an associate professor in School of Mathematics and Statistics, Nanjing University of Science and Technology. I received my Ph.D degree in Nanjing University of Science and Technology and worked as a research postdoc at the Department of Computer Science, City University of Hong Kong. My research interest includes information security, cryptography with recent focus on encrypted search and quantum-proof cryptography. I have published more than 40 more papers data security papers with total <a href='https://scholar.google.com/citations?user=HY5jH_MAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/leixu-crypto/leixu-crypto.github.io/google-scholar-stats/gs_data.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, including ACM CCS, VLDB, USENIX NDSI, IEEE INFOCOM, ACM ASIACCS, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Information Forensics and Security, IEEE Transactions on Services Computing and so on.
 
 
 # 🔥 News
@@ -109,6 +109,12 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 - *2017.04 - 2018.04*, Joint training PhD student, supervised by [Xingliang Yuan](https://findanexpert.unimelb.edu.au/profile/1065384-xingliang-yuan) and [Joseph Liu](https://research.monash.edu/en/persons/joseph-liu), Faculty of IT, Monash University. 
 - *2012.09 - 2019.09*, Doctor of Philosophy in Mathematics, supervised by [Chungen Xu](https://teacher.njust.edu.cn/lxy/xcg/list.htm) and [Zhipeng Qiu](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=MmG3MEu8ISxgW2tFSl9Ixw==&yxsh=mChmz4vzHpw=&zydm=!F3wm6iGOmo=), Nanjing University of Science and Technology. 
 - *2008.09 - 2012.06*, Bachelor of Science in Mathematics and Applied Mathematics, Anhui Normal University. 
+
+# 💻 Services
+
+## Technical Program Committee Member
+- 2025: ACM AsiaCCS
+- 2024: IEEE MSN, PST, CIKM
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
