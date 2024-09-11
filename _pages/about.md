@@ -65,11 +65,10 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 - [Practical Multi-Source Multi-Client Searchable Encryption With Forward Privacy: Refined Security Notion and New Constructions](#) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)   
   Lin Mei, Chungen Xu, **Lei Xu**, Xingliang Yuan, and Joseph K. Liu  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*  
-
-- [Toward Quality-aware Data Valuation in Learning Algorithms: Practices, Challenges, and Beyond](https://ieeexplore.ieee.org/document/10348525)  
+ 
+- [Toward Quality-aware Data Valuation in Learning Algorithms: Practices, Challenges, and Beyond](https://ieeexplore.ieee.org/document/10348525) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-red?style=flat-square) ![MNET 2024](https://img.shields.io/badge/MNET-2024-blue?style=flat-square)
   **Lei Xu**, Jiaqing Chen, Shan Chang, Cong Wang, and Bo Li  
   *IEEE Network Magazine, 2023*  
-  [中科院SCI 2区期刊]
 
 - [Towards Efficient Cryptographic Data Validation Service in Edge Computing](https://ieeexplore.ieee.org/document/9534675) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TSC 2023](https://img.shields.io/badge/TSC-2023-blue?style=flat-square)   
   **Lei Xu**\*, Xingliang Yuan, Zhengxiang Zhou, Cong Wang, and Chungen Xu  
