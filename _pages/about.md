@@ -61,7 +61,6 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 - [Toward Full Accounting for Leakage Exploitation and Mitigation in Dynamic Encrypted Databases](#) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)   
   **Lei Xu**, Anxin Zhou, Huayi Duan, Cong Wang, Qian Wang, and Xiahua Jia  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*  
-  [CCF A 类期刊]
 
 
 - [Towards Efficient Cryptographic Data Validation Service in Edge Computing](#) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TSC 2023](https://img.shields.io/badge/TSC-2023-blue?style=flat-square)   
@@ -93,12 +92,10 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 - [Forward and Backward Private DSSE for Range Queries](#)  
   Cong Zuo, Shifeng Sun, Joseph K. Liu, Jun Shao, Josef Pieprzyk, and **Lei Xu**  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), vol.19, no.1, pp.328 - 338, 2022*  
-  [CCF A类，SCI 2区, IF 6.86]
 
 - [Interpreting and Mitigating Leakage-Abuse Attacks in Searchable Symmetric Encryption](#)  
   **Lei Xu**, Huayi Duan, Anxin Zhou, Xingliang Yuan, and Cong Wang  
   *IEEE Transactions on Information Forensics and Security (**TIFS**), vol.16, pp.5310 - 5325, 2021*  
-  [CCF A类，SCI 1区, IF 7.17]
 
 - [Enabling Authorized Encrypted Search for Multi-Authority Medical Databases](#)  
   **Lei Xu**, Shifeng Sun, Xingliang Yuan, Joseph Liu, Cong Zuo, and Chungen Xu  
