@@ -32,7 +32,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   Leqian Zheng, **Lei Xu**, Cong Wang, Sheng Wang, Yuke Hu, Zhan Qin, Feifei Li, Kui Ren  
   *In Proc. of the 50th International Conference on Very Large Databases (**VLDB'24**), 2024*  
 
-- [HiddenTor: Toward a User-Centric and Private Query System for Tor BridgeDB](#) (https://ieeexplore.ieee.org/abstract/document/10630991) ![CCF B](https://img.shields.io/badge/CCF-B-red?style=flat-square) ![ICDCS 2024](https://img.shields.io/badge/ICDCS-2024-blue?style=flat-square)  
+- [HiddenTor: Toward a User-Centric and Private Query System for Tor BridgeDB](https://ieeexplore.ieee.org/abstract/document/10630991) ![CCF B](https://img.shields.io/badge/CCF-B-green?style=flat-square) ![ICDCS 2024](https://img.shields.io/badge/ICDCS-2024-blue?style=flat-square)  
   Yichen Zang, Chengjun Cai, Wentao Dong, **Lei Xu**, Cong Wang  
   *In the 2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS), 2024*  
 
