@@ -34,7 +34,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 - [HiddenTor: Toward a User-Centric and Private Query System for Tor BridgeDB](https://ieeexplore.ieee.org/abstract/document/10630991) ![CCF B](https://img.shields.io/badge/CCF-B-green?style=flat-square) ![ICDCS 2024](https://img.shields.io/badge/ICDCS-2024-blue?style=flat-square)  
   Yichen Zang, Chengjun Cai, Wentao Dong, **Lei Xu**, Cong Wang  
-  *In the 2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS), 2024*  
+  *In Proc. of the 2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS), 2024*  
 
 - [Leakage-Abuse Attacks Against Forward and Backward Private Searchable Symmetric Encryption](https://dl.acm.org/doi/10.1145/3576915.3623085) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![CCS 2023](https://img.shields.io/badge/CCS-2023-blue?style=flat-square)   
   **Lei Xu**, Leqian Zheng, Chengzhi Xu, Xingliang Yuan, and Cong Wang  
