@@ -99,7 +99,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   **Lei Xu**, Huayi Duan, Anxin Zhou, Xingliang Yuan, and Cong Wang  
   *IEEE Transactions on Information Forensics and Security (**TIFS**), vol.16, pp.5310 - 5325, 2021*  
 
-- [Enabling Authorized Encrypted Search for Multi-Authority Medical Databases](https://ieeexplore.ieee.org/document/8668554) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-deepskyblue?style=flat-square) ![TETC 2021](https://img.shields.io/badge/TETC-2021-blue?style=flat-square)   
+- [Enabling Authorized Encrypted Search for Multi-Authority Medical Databases](https://ieeexplore.ieee.org/document/8668554) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-purple?style=flat-square) ![TETC 2021](https://img.shields.io/badge/TETC-2021-blue?style=flat-square)   
   **Lei Xu**, Shifeng Sun, Xingliang Yuan, Joseph Liu, Cong Zuo, and Chungen Xu  
   *IEEE Transactions on Emerging Topics in Computing (**TETC**), vol.9, no.1, pp.534 - 546, 2021*  
 
