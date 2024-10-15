@@ -119,7 +119,7 @@ Particularly, I am focused on exploring how advanced machine learning techniques
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Experiences and Educations
-- *2020.09 - To Date*, Ph.D. Student, suprvised by Prof.[Cong Wang](https://www.cs.cityu.edu.hk/~congwang/), Department of Computer Science, City University of Hong Kong.
+- *2023.09 - To Date*, Ph.D. Student, suprvised by Prof.[Cong Wang](https://www.cs.cityu.edu.hk/~congwang/), Department of Computer Science, City University of Hong Kong.
 - *2019.09 - 2023.07*, Bachelor of Engineering, School of Electronic Information, Wuhan University. 
 
 # 💻 Services
