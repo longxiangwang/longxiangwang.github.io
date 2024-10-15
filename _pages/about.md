@@ -17,17 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an associate professor in School of Mathematics and Statistics, Nanjing University of Science and Technology. My research interest includes information security, cryptography with recent focus on encrypted search and quantum-proof cryptography. I have published more than 40 more papers data security papers with total <a href='https://scholar.google.com/citations?user=HY5jH_MAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/leixu-crypto/leixu-crypto.github.io/google-scholar-stats/gs_data.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, including ACM CCS, VLDB, USENIX NDSI, IEEE INFOCOM, ACM ASIACCS, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Information Forensics and Security, IEEE Transactions on Services Computing and so on.  
+I am currently a second-year Ph.D. student in [Computer Science](https://www.cs.cityu.edu.hk/) at the [City University of Hong Kong](https://www.cityu.edu.hk/) supervised by Prof.[Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). Before that, I obtained B.Eng. from Wuhan University.
+<!-- under the supervision of Prof.[Gao XUN]() -->
+
+My research lies at the intersection of cybersecurity and AI. 
+Particularly, I am focused on exploring how advanced machine learning techniques can be leveraged to enhance existing security measures, including blockchain, searchable encryption and in-vehicle networks.
+
+<!-- 
+ My research interest includes information security, cryptography with recent focus on encrypted search and quantum-proof cryptography. I have published more than 40 more papers data security papers with total <a href='https://scholar.google.com/citations?user=HY5jH_MAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/leixu-crypto/leixu-crypto.github.io/google-scholar-stats/gs_data.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, including ACM CCS, VLDB, USENIX NDSI, IEEE INFOCOM, ACM ASIACCS, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Information Forensics and Security, IEEE Transactions on Services Computing and so on.   -->
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 Our application for 2024 Jiangsu Provincial Young Science and Technology Talent Support Program (江苏省青年科技人才托举工程资助对象) was approved. Congratulations to Lei!
-- *2024.05*: &nbsp;🎉🎉 Our paper “SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores” was accepted by VLDB 2024. Congratulations to Leqian！ 
+- *2024.10*: &nbsp;🎉🎉 Our paper "Deploying Intrusion Detection on In-Vehicle Networks: Challenges and Opportunities" was accepted by IEEE Network Magazine!
+ 
 
 # 📝 Selected Publications 
 
-## Conference Papers  
-
+<!-- ## Conference Papers   -->
+<!-- 
 - [SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores](https://dl.acm.org/doi/10.14778/3675034.3675038) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![VLDB 2024](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)  
   Leqian Zheng, **Lei Xu**, Cong Wang, Sheng Wang, Yuke Hu, Zhan Qin, Feifei Li, Kui Ren  
   *In Proc. of the 50th International Conference on Very Large Databases (**VLDB'24**), 2024*  
@@ -58,10 +65,10 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 - [Multi-Writer Searchable Encryption: An LWE-based Realization and Implementation](https://dl.acm.org/doi/10.1145/3321705.3329814) ![CCF C](https://img.shields.io/badge/CCF-C-purple?style=flat-square) ![AsiaCCS 2019](https://img.shields.io/badge/AsiaCCS-2019-blue?style=flat-square)    
   **Lei Xu**, Xingliang Yuan, Ron Steinfeld, Cong Wang, and Chungen Xu  
-   *In Proc. of the 14th ACM ASIA Conference on Computer and Communications Security (**AsiaCCS’19**), 2019*.  
+   *In Proc. of the 14th ACM ASIA Conference on Computer and Communications Security (**AsiaCCS’19**), 2019*.   -->
 
 ## Journal Papers
-
+<!-- 
 - [Toward Full Accounting for Leakage Exploitation and Mitigation in Dynamic Encrypted Databases](https://ieeexplore.ieee.org/document/10185078) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)   
   **Lei Xu**, Anxin Zhou, Huayi Duan, Cong Wang, Qian Wang, and Xiahua Jia  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*  
@@ -72,12 +79,13 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 - [Practical Multi-Source Multi-Client Searchable Encryption With Forward Privacy: Refined Security Notion and New Constructions](#) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)   
   Lin Mei, Chungen Xu, **Lei Xu**, Xingliang Yuan, and Joseph K. Liu  
-  *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*  
+  *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*   -->
  
-- [Toward Quality-aware Data Valuation in Learning Algorithms: Practices, Challenges, and Beyond](https://ieeexplore.ieee.org/document/10348525) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-purple?style=flat-square) ![MNET 2024](https://img.shields.io/badge/MNET-2024-blue?style=flat-square)  
-  **Lei Xu**, Jiaqing Chen, Shan Chang, Cong Wang, and Bo Li  
-  *IEEE Network Magazine, 2023*  
+- [Deploying Intrusion Detection on In-Vehicle Networks: Challenges and Opportunities](https://img.shields.io/badge/JCR-Q1-purple?style=flat-square) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-purple?style=flat-square) ![MNET 2024](https://img.shields.io/badge/MNET-2024-blue?style=flat-square)  
+  **Longxiang Wang**, Qingchuan Zhao, Wei-Bin Lee, Cong Wang.
+  *IEEE Network Magazine, 2024*  
 
+<!-- 
 - [Towards Efficient Cryptographic Data Validation Service in Edge Computing](https://ieeexplore.ieee.org/document/9534675) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TSC 2023](https://img.shields.io/badge/TSC-2023-blue?style=flat-square)   
   **Lei Xu**\*, Xingliang Yuan, Zhengxiang Zhou, Cong Wang, and Chungen Xu  
   *IEEE Transactions on Services Computing (**TSC**), vol.16, no.1, pp. 656 - 669, 2023*  
@@ -101,7 +109,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 - [Enabling Authorized Encrypted Search for Multi-Authority Medical Databases](https://ieeexplore.ieee.org/document/8668554) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-purple?style=flat-square) ![TETC 2021](https://img.shields.io/badge/TETC-2021-blue?style=flat-square)   
   **Lei Xu**, Shifeng Sun, Xingliang Yuan, Joseph Liu, Cong Zuo, and Chungen Xu  
-  *IEEE Transactions on Emerging Topics in Computing (**TETC**), vol.9, no.1, pp.534 - 546, 2021*  
+  *IEEE Transactions on Emerging Topics in Computing (**TETC**), vol.9, no.1, pp.534 - 546, 2021*   -->
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -111,25 +119,21 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Experiences and Educations
-- *2020.09 - To Date*, Associate Professor, Nanjing University of Science and Technology.
-- *2023.02 - 2024.01*, Research Associate, supervised by by [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/), Department of Computer Science, City University of Hong Kong.
-- *2019.04 - 2020.09*, Postdoctoral, supervised by by [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/), Department of Computer Science, City University of Hong Kong.
-- *2017.04 - 2018.04*, Joint training PhD student, supervised by [Xingliang Yuan](https://findanexpert.unimelb.edu.au/profile/1065384-xingliang-yuan) and [Joseph Liu](https://research.monash.edu/en/persons/joseph-liu), Faculty of IT, Monash University. 
-- *2012.09 - 2019.09*, PhD in Mathematics, supervised by [Chungen Xu](https://teacher.njust.edu.cn/lxy/xcg/list.htm) and [Zhipeng Qiu](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=MmG3MEu8ISxgW2tFSl9Ixw==&yxsh=mChmz4vzHpw=&zydm=!F3wm6iGOmo=), Nanjing University of Science and Technology. 
-- *2008.09 - 2012.06*, Bachelor of Science in Mathematics and Applied Mathematics, Anhui Normal University. 
+- *2020.09 - To Date*, Ph.D. Student, suprvised by Prof.[Cong Wang](https://www.cs.cityu.edu.hk/~congwang/), Department of Computer Science, City University of Hong Kong.
+- *2019.09 - 2023.07*, Bachelor of Engineering, School of Electronic Information, Wuhan University. 
 
 # 💻 Services
 
-## Technical Program Committee Member
+<!-- ## Technical Program Committee Member
 - 2025: ACM AsiaCCS
 - 2024: IEEE MSN, PST, CIKM
 - 2023: EAI TRIDENTCOM
 - 2021: Qshine
-- 2020: BlockApp
+- 2020: BlockApp -->
 
 ## Reviewer and External Reviewer
-- AsiaCrypt 2024, AsiaCrypt 2023, Trustcom 2020, etc.
-- IEEE TDSC, IEEE TIFS, IEEE TSC, IEEE TKDE, IEEE IOTJ, etc.
+<!-- - AsiaCrypt 2024, AsiaCrypt 2023, Trustcom 2020, etc. -->
+- IEEE TDSC, etc.
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -141,3 +145,5 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 💬 Visitor tracking

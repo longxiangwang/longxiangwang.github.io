@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lei XU"
-description              : "Lei is a badminton enthusiast, he likes reading and has a strong interest in Chinese history. "
-repository               : "leixu-crypto/leixu-crypto.github.io"
+title                    : "Longxiang WANG"
+description              : "Longxiang enjoys playing badminton and watching movies in spare time. "
+repository               : "longxiangwang/longxiangwang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lei XU"
-  avatar           : "images/tree.jpg"
-  bio              : "Nanjing University of Science and Technology"
-  location         : "Nanjing, China"
+  name             : "Longxiang Wang"
+  avatar           : "images/photo2.jpg"
+  bio              : "City University of Hong Kong"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=HY5jH_MAAAAJ&hl=en"
-  email            : "leixu@njust.edu.cn"
+  googlescholar    :  # "https://scholar.google.com/citations?user=HY5jH_MAAAAJ&hl=en"
+  email            : "longxwang4-c@my.cityu.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
