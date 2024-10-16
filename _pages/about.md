@@ -135,6 +135,11 @@ Particularly, I am focused on exploring how advanced machine learning techniques
 <!-- - AsiaCrypt 2024, AsiaCrypt 2023, Trustcom 2020, etc. -->
 - IEEE TDSC, etc.
 
+## Teaching
+- Teaching Assistant, CS2310 Computer Programming, Sem A, 2024-2025, City University of Hong Kong.
+- Teaching Assistant, CS5491 Artificial Intellegence, Sem B, 2023-2024, City University of Hong Kong.
+- Teaching Assistant, CS2310 Computer Programming, Sem A, 2023-2024, City University of Hong Kong.
+- Teaching Assistant, Analogue Circuit II, Sem A, 2021-2022, Wuhan University.
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -146,7 +151,7 @@ Particularly, I am focused on exploring how advanced machine learning techniques
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 💬 Visitor tracking
+# 💬 Visitor Tracking
 <div style="width: 50%; margin: 0 auto;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vny7LZR-qTHB5_BivFxjhVHfbjM8VkCSzM0Z8Tj53ns&cl=ffffff&w=a"></script>
 </div>
