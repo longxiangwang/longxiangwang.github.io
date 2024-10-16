@@ -136,10 +136,12 @@ Particularly, I am focused on exploring how advanced machine learning techniques
 - IEEE TDSC, etc.
 
 ## Teaching
-- Teaching Assistant, CS2310 Computer Programming, Sem A, 2024-2025, City University of Hong Kong.
-- Teaching Assistant, CS5491 Artificial Intellegence, Sem B, 2023-2024, City University of Hong Kong.
-- Teaching Assistant, CS2310 Computer Programming, Sem A, 2023-2024, City University of Hong Kong.
-- Teaching Assistant, Analogue Circuit II, Sem A, 2021-2022, Wuhan University.
+- Teaching Assistant, CS2310 Computer Programming, Sem A, 2024-2025
+- Teaching Assistant, CS5491 Artificial Intellegence, Sem B, 2023-2024
+- Teaching Assistant, CS2310 Computer Programming, Sem A, 2023-2024
+- Teaching Assistant, Analogue Circuit II, Sem A, 2021-2022
+
+
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
