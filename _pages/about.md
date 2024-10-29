@@ -157,3 +157,11 @@ Particularly, I am focused on exploring how advanced machine learning techniques
 <div style="width: 50%; margin: 0 auto;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vny7LZR-qTHB5_BivFxjhVHfbjM8VkCSzM0Z8Tj53ns&cl=ffffff&w=a"></script>
 </div>
+
+<div style="text-align: center; margin-top: 20px;">
+    Last modified: <span id="modified"></span>
+    <script>
+        var lastModified = document.lastModified;
+        document.getElementById("modified").innerHTML = lastModified;
+    </script>
+</div>
