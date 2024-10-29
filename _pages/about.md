@@ -158,10 +158,12 @@ Particularly, I am focused on exploring how advanced machine learning techniques
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vny7LZR-qTHB5_BivFxjhVHfbjM8VkCSzM0Z8Tj53ns&cl=ffffff&w=a"></script>
 </div>
 
+---
 <div style="text-align: center; margin-top: 20px;">
-    Last modified: <span id="modified"></span>
+    <i>Updated: 
     <script>
-        var lastModified = document.lastModified;
-        document.getElementById("modified").innerHTML = lastModified;
+        var d = new Date(document.lastModified);
+        document.write(d.toLocaleString('en-US', { month: 'short', year: 'numeric' }), ' ');
     </script>
+    </i>
 </div>
