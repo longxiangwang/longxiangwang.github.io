@@ -38,38 +38,8 @@ Particularly, I am focused on exploring how advanced machine learning techniques
 - [CALM: Curiosity-Driven Auditing for Large Language Models](https://arxiv.org/abs/2501.02997) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![AAAI 2025](https://img.shields.io/badge/AAAI-2025-blue?style=flat-square)  
   Xiang Zheng, **Longxiang Wang**, Yi Liu, Xingjun Ma, Chao Shen, Cong Wang
   *In Proc. of the 39th Annual AAAI Conference on Artificial Intelligence (**AAAI'25**), 2025*  
-<!-- 
-- [SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores](https://dl.acm.org/doi/10.14778/3675034.3675038) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![VLDB 2024](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)  
-  Leqian Zheng, **Lei Xu**, Cong Wang, Sheng Wang, Yuke Hu, Zhan Qin, Feifei Li, Kui Ren  
-  *In Proc. of the 50th International Conference on Very Large Databases (**VLDB'24**), 2024*  
 
-- [HiddenTor: Toward a User-Centric and Private Query System for Tor BridgeDB](https://ieeexplore.ieee.org/abstract/document/10630991) ![CCF B](https://img.shields.io/badge/CCF-B-green?style=flat-square) ![ICDCS 2024](https://img.shields.io/badge/ICDCS-2024-blue?style=flat-square)  
-  Yichen Zang, Chengjun Cai, Wentao Dong, **Lei Xu**, Cong Wang  
-  *In Proc. of the 2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS), 2024*  
-
-- [Leakage-Abuse Attacks Against Forward and Backward Private Searchable Symmetric Encryption](https://dl.acm.org/doi/10.1145/3576915.3623085) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![CCS 2023](https://img.shields.io/badge/CCS-2023-blue?style=flat-square)   
-  **Lei Xu**, Leqian Zheng, Chengzhi Xu, Xingliang Yuan, and Cong Wang  
-  *In Proc. of the 30th ACM Conference on Computer and Communications Security (**CCS'23**), 2023*  
-
-- [Boomerang: Metadata-Private Messaging under Hardware Trust](https://www.usenix.org/conference/nsdi23/presentation/jiang) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![NSDI 2023](https://img.shields.io/badge/NSDI-2023-blue?style=flat-square)   
-  Peipei Jiang, Qian Wang, Jianhao Cheng, Cong Wang, **Lei Xu**, Xinyu Wang, Yihao Wu, Xiaoyuan Li, and Kui Ren  
-  *In Proc. of the 20th USENIX Symposium on Networked Systems Design and Implementation (**NSDI'23**), 2023*  
-
-- [The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining](https://ieeexplore.ieee.org/document/9796721) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![INFOCOM 2022](https://img.shields.io/badge/INFOCOM-2022-blue?style=flat-square)    
-  Yi Liu, **Lei Xu**, Xingliang Yuan, Cong Wang, Bo Li  
-  *In Proc. of the 41st International Conference on Computer Communication (**INFOCOM'22**), 2022*  
-
-- [EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves](https://ieeexplore.ieee.org/document/9155385) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![INFOCOM 2020](https://img.shields.io/badge/INFOCOM-2020-blue?style=flat-square)   
-  Chengjun Cai, **Lei Xu**, Anxin Zhou, Ruochen Wang, Cong Wang, Qian Wang  
-  *In Proc. of the 39th International Conference on Computer Communication (**INFOCOM’20**), 2020*  
-
-- [Hardening Database Padding for Searchable Encryption](https://ieeexplore.ieee.org/document/8737588) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![INFOCOM 2019](https://img.shields.io/badge/INFOCOM-2019-blue?style=flat-square)   
-  **Lei Xu**, Xingliang Yuan, Cong Wang, Qian Wang, Chungen Xu  
-  *In Proc. of the 38th International Conference on Computer Communication (**INFOCOM’19**), 2019*  
-
-- [Multi-Writer Searchable Encryption: An LWE-based Realization and Implementation](https://dl.acm.org/doi/10.1145/3321705.3329814) ![CCF C](https://img.shields.io/badge/CCF-C-purple?style=flat-square) ![AsiaCCS 2019](https://img.shields.io/badge/AsiaCCS-2019-blue?style=flat-square)    
-  **Lei Xu**, Xingliang Yuan, Ron Steinfeld, Cong Wang, and Chungen Xu  
-   *In Proc. of the 14th ACM ASIA Conference on Computer and Communications Security (**AsiaCCS’19**), 2019*.   -->
+  
 
 ## Journal Papers
 <!-- 
