@@ -28,12 +28,16 @@ Particularly, I am focused on exploring how advanced machine learning techniques
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 Our paper "CALM: Curiosity-Driven Auditing for Large Language Models" was accepted by AAAI 25 as a poster!
 - *2024.10*: &nbsp;🎉🎉 Our paper "Deploying Intrusion Detection on In-Vehicle Networks: Challenges and Opportunities" was accepted by IEEE Network Magazine!
  
 
 # 📝 Selected Publications 
 
-<!-- ## Conference Papers   -->
+## Conference Papers  
+- [CALM: Curiosity-Driven Auditing for Large Language Models](https://arxiv.org/abs/2501.02997) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![AAAI 2025](https://img.shields.io/badge/AAAI-2025-blue?style=flat-square)  
+  Xiang Zheng, **Longxiang Wang**, Yi Liu, Xingjun Ma, Chao Shen, Cong Wang
+  *In Proc. of the 39th Annual AAAI Conference on Artificial Intelligence (**AAAI'25**), 2025*  
 <!-- 
 - [SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores](https://dl.acm.org/doi/10.14778/3675034.3675038) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![VLDB 2024](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)  
   Leqian Zheng, **Lei Xu**, Cong Wang, Sheng Wang, Yuke Hu, Zhan Qin, Feifei Li, Kui Ren  
