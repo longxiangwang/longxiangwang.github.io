@@ -55,7 +55,7 @@ Particularly, I am focused on exploring how advanced machine learning techniques
   Lin Mei, Chungen Xu, **Lei Xu**, Xingliang Yuan, and Joseph K. Liu  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024*   -->
  
-- [Deploying Intrusion Detection on In-Vehicle Networks: Challenges and Opportunities](https://img.shields.io/badge/JCR-Q1-purple?style=flat-square) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-purple?style=flat-square) ![MNET 2024](https://img.shields.io/badge/MNET-2024-blue?style=flat-square)  
+- [Deploying Intrusion Detection on In-Vehicle Networks: Challenges and Opportunities](https://ieeexplore.ieee.org/document/10738266) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-purple?style=flat-square) ![MNET 2024](https://img.shields.io/badge/MNET-2024-blue?style=flat-square)  
   **Longxiang Wang**, Qingchuan Zhao, Wei-Bin Lee, Cong Wang  
   *IEEE Network Magazine, 2024*  
 
