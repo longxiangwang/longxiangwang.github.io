@@ -28,13 +28,18 @@ Particularly, I am focused on exploring how advanced machine learning techniques
 
 
 # 🔥 News
+- *2025.1*: &nbsp;🎉🎉 Our paper "ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries" was accepted by USENIX Security 25!
 - *2024.12*: &nbsp;🎉🎉 Our paper "CALM: Curiosity-Driven Auditing for Large Language Models" was accepted by AAAI 25 as a poster!
 - *2024.10*: &nbsp;🎉🎉 Our paper "Deploying Intrusion Detection on In-Vehicle Networks: Challenges and Opportunities" was accepted by IEEE Network Magazine!
  
 
-# 📝 Selected Publications 
+# 📝 Selected Publications （* for co-first authors）
 
 ## Conference Papers  
+- ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![USENIX SEC](https://img.shields.io/badge/USENIX%20SEC-2025-blue?style=flat-square)  
+  Longxiang Wang*, Lei Xu*, Yufei Chen, Ying Zou, Cong Wang 
+  *In Proc. of the 34th USENIX Security Symposium (**USENIX SEC’25**), 2025*  
+
 - [CALM: Curiosity-Driven Auditing for Large Language Models](https://arxiv.org/abs/2501.02997) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![AAAI 2025](https://img.shields.io/badge/AAAI-2025-blue?style=flat-square)  
   Xiang Zheng, **Longxiang Wang**, Yi Liu, Xingjun Ma, Chao Shen, Cong Wang   
   *In Proc. of the 39th Annual AAAI Conference on Artificial Intelligence (**AAAI'25**), 2025*  
