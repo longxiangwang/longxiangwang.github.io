@@ -37,7 +37,7 @@ Particularly, I am focused on exploring how advanced machine learning techniques
 
 ## Conference Papers  
 - ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![USENIX SEC](https://img.shields.io/badge/USENIX%20SEC-2025-blue?style=flat-square)  
-  Longxiang Wang*, Lei Xu*, Yufei Chen, Ying Zou, Cong Wang 
+  Longxiang Wang\*, Lei Xu\*, Yufei Chen, Ying Zou, Cong Wang 
   *In Proc. of the 34th USENIX Security Symposium (**USENIX SEC’25**), 2025*  
 
 - [CALM: Curiosity-Driven Auditing for Large Language Models](https://arxiv.org/abs/2501.02997) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![AAAI 2025](https://img.shields.io/badge/AAAI-2025-blue?style=flat-square)  
