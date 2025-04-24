@@ -115,6 +115,7 @@ Particularly, I am focused on exploring how advanced machine learning techniques
 - IEEE TDSC, etc.
 
 ## Teaching
+- Teaching Assistant, CS6290 Privacy-enhancing Technologies, Sem B, 2024-2025
 - Teaching Assistant, CS2310 Computer Programming, Sem A, 2024-2025
 - Teaching Assistant, CS5491 Artificial Intellegence, Sem B, 2023-2024
 - Teaching Assistant, CS2310 Computer Programming, Sem A, 2023-2024
