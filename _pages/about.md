@@ -21,7 +21,7 @@ I am currently a second-year Ph.D. student in [Computer Science](https://www.cs.
 <!-- under the supervision of Prof.[Gao XUN]() -->
 
 My research lies at the intersection of cybersecurity and AI. 
-Particularly, I am focused on exploring how advanced machine learning techniques can be leveraged to enhance existing security measures, including blockchain, searchable encryption and in-vehicle networks.
+Particularly, I am focused on exploring how advanced machine learning techniques can be leveraged to enhance existing privacy measures, including searchable encryption, blochchain, and in-vehicle networks.
 
 <!-- 
  My research interest includes information security, cryptography with recent focus on encrypted search and quantum-proof cryptography. I have published more than 40 more papers data security papers with total <a href='https://scholar.google.com/citations?user=HY5jH_MAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/leixu-crypto/leixu-crypto.github.io/google-scholar-stats/gs_data.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, including ACM CCS, VLDB, USENIX NDSI, IEEE INFOCOM, ACM ASIACCS, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Information Forensics and Security, IEEE Transactions on Services Computing and so on.   -->

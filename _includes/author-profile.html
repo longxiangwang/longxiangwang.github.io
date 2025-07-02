@@ -117,7 +117,15 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
+      {% if author.cityu_scholar %}
+        <li><a href="{{ author.cityu_scholar }}"><i class="fas fa-fw fa-university" aria-hidden="true"></i> CityU Scholar</a></li>
+      {% endif %}
+      <!-- 如果你想使用自定义图标图片，可以替换上面的代码为：
+      {% if author.cityu_scholar %}
+        <li><a href="{{ author.cityu_scholar }}"><img src="{{ site.baseurl }}/images/cityu-scholar.png" alt="CityU Scholar" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 5px;"> CityU Scholar</a></li>
+      {% endif %}
+      -->
     </ul>
       <div class="author__urls_sm">
       {% if author.uri %}
@@ -212,6 +220,9 @@
       {% endif %}
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.cityu_scholar %}
+        <a href="{{ author.cityu_scholar }}"><i class="fas fa-fw fa-university" aria-hidden="true"></i></a>
       {% endif %}
     </div>
   </div>
