@@ -6,8 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Longxiang WANG"
-description              : "Longxiang enjoys playing badminton and watching movies in spare time. "
+title                    : |
+  Longxiang WANG
+  (王隆祥)
+description              : "Longxiang enjoys playing badminton and watching movies in spare time. If you find difficulty pronouncing my name, it is similar to 'Long-shyang Wong'"
 repository               : "longxiangwang/longxiangwang.github.io"
 google_scholar_stats_use_cdn : true
 
