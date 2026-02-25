@@ -38,11 +38,12 @@ Particularly, I am focused on exploring how advanced machine learning techniques
 
 # 📝 Selected Publications （* for co-first authors）
 
-## Conference Papers
+## Preprint
 - [OptiLeak: Efficient Prompt Reconstruction via Reinforcement Learning in Multi-tenant LLM Services](https://arxiv.org/abs/2602.20595) ![arXiv](https://img.shields.io/badge/arXiv-2026-green?style=flat-square)
   **Longxiang Wang**, Xiang Zheng, Xuhao Zhang, Yao Zhang, Ye Wu, Cong Wang
   *arXiv preprint, 2026*
 
+## Conference Papers
 - [ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-longxiang) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![USENIX SEC](https://img.shields.io/badge/USENIX%20SEC-2025-blue?style=flat-square)
   **Longxiang Wang**\*, Lei Xu\*, Yufei Chen, Ying Zou, Cong Wang
   *In Proc. of the 34th USENIX Security Symposium (**USENIX SEC’25**), 2025*
