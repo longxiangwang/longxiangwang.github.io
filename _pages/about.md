@@ -30,6 +30,7 @@ Particularly, I am focused on exploring how advanced machine learning techniques
 
 
 # 🔥 News
+- *2026.2*: &nbsp;🎉🎉 Our paper "OptiLeak: Efficient Prompt Reconstruction via Reinforcement Learning in Multi-tenant LLM Services" is now available on arXiv!
 - *2025.1*: &nbsp;🎉🎉 Our paper "ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries" was accepted by USENIX Security 25!
 - *2024.12*: &nbsp;🎉🎉 Our paper "CALM: Curiosity-Driven Auditing for Large Language Models" was accepted by AAAI 25 as a poster!
 - *2024.10*: &nbsp;🎉🎉 Our paper "Deploying Intrusion Detection on In-Vehicle Networks: Challenges and Opportunities" was accepted by IEEE Network Magazine!
@@ -37,10 +38,14 @@ Particularly, I am focused on exploring how advanced machine learning techniques
 
 # 📝 Selected Publications （* for co-first authors）
 
-## Conference Papers  
-- [ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-longxiang) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![USENIX SEC](https://img.shields.io/badge/USENIX%20SEC-2025-blue?style=flat-square)  
-  **Longxiang Wang**\*, Lei Xu\*, Yufei Chen, Ying Zou, Cong Wang  
-  *In Proc. of the 34th USENIX Security Symposium (**USENIX SEC’25**), 2025*  
+## Conference Papers
+- [OptiLeak: Efficient Prompt Reconstruction via Reinforcement Learning in Multi-tenant LLM Services](https://arxiv.org/abs/2602.20595) ![arXiv](https://img.shields.io/badge/arXiv-2026-green?style=flat-square)
+  **Longxiang Wang**, Xiang Zheng, Xuhao Zhang, Yao Zhang, Ye Wu, Cong Wang
+  *arXiv preprint, 2026*
+
+- [ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-longxiang) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![USENIX SEC](https://img.shields.io/badge/USENIX%20SEC-2025-blue?style=flat-square)
+  **Longxiang Wang**\*, Lei Xu\*, Yufei Chen, Ying Zou, Cong Wang
+  *In Proc. of the 34th USENIX Security Symposium (**USENIX SEC’25**), 2025*
 
 - [CALM: Curiosity-Driven Auditing for Large Language Models](https://arxiv.org/abs/2501.02997) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![AAAI 2025](https://img.shields.io/badge/AAAI-2025-blue?style=flat-square)  
   Xiang Zheng, **Longxiang Wang**, Yi Liu, Xingjun Ma, Chao Shen, Cong Wang   
