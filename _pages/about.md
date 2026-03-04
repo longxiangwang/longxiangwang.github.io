@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Ph.D. student in [Computer Science](https://www.cs.cityu.edu.hk/) at the [City University of Hong Kong](https://www.cityu.edu.hk/) supervised by Prof.[Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). Before that, I obtained B.Eng. from Wuhan University.
+I am currently a <del>second</del> third-year Ph.D. student in [Computer Science](https://www.cs.cityu.edu.hk/) at the [City University of Hong Kong](https://www.cityu.edu.hk/) supervised by Prof.[Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). Before that, I obtained B.Eng. from Wuhan University.
 <!-- under the supervision of Prof.[Gao XUN]() -->
 
 My research interests lies at the intersection of cybersecurity and AI. Particularly, I am focused on exploring how advanced AI techniques can be leveraged to enhance existing privacy measures, including large language models, searchable encryption, and blockchain.
